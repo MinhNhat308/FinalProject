@@ -1,5 +1,7 @@
 <?php
 include 'includes/header.php';
+include 'config.php';
+var_dump($_SESSION);
  ?>      <!-- end header -->
       <section class="slider_section">
          <div id="myCarousel" class="carousel slide banner-main" data-ride="carousel">
